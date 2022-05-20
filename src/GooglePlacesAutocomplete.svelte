@@ -19,7 +19,7 @@
 
   let search
   let autocomplete
-  let currentPlace
+  export let currentPlace;
   let disabled = true
 
   const dispatch = createEventDispatcher()
