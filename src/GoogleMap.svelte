@@ -27,7 +27,7 @@
   export let apiKey
 
   let mapElement
-  let map
+  export let map
   
   export let center = null
   export let zoom = 8
