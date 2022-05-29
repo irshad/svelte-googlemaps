@@ -17,7 +17,7 @@
   export let types = [ '(regions)' ]
   export let options = {}
 
-  let search
+  export let search
   let autocomplete
   export let currentPlace;
   let disabled = true
